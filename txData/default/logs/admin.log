@@ -1,0 +1,10 @@
+
+================================================================
+======== txAdmin Starting - 7/10/2022, 8:32:10 AM               
+================================================================
+[08:32:33] [kimchhaychheng555] created admins file
+[08:33:12] [kimchhaychheng555] Changing global settings via setup stepper and started Deployer.
+[08:33:17] [kimchhaychheng555] Setting recipe.
+[08:34:41] [kimchhaychheng555] Running recipe.
+[09:52:54] [kimchhaychheng555] Configured server.cfg from deployer.
+[09:52:54] [kimchhaychheng555] Completed and committed server deploy.

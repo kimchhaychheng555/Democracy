@@ -1,0 +1,21 @@
+[
+  {
+    "name": "kimchhaychheng555",
+    "master": true,
+    "password_hash": "$2a$11$5zTzos20sYsSRhUmcqQep.8tKxIpKYzbNrBsYnxfLuuB4S03eJ6n6",
+    "providers": {
+      "citizenfx": {
+        "id": "kimchhaychheng555",
+        "identifier": "fivem:1158981",
+        "data": {
+          "sub": "ffd0ac66be0aeeba70f7a176ffda4ec3",
+          "nameid": "https://forum.cfx.re/internal/user/1158981",
+          "name": "kimchhaychheng555",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/kimchhaychheng555/256/633476_2.png",
+          "profile": "https://forum.cfx.re/u/kimchhaychheng555"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
