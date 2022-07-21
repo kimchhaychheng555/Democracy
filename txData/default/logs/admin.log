@@ -1,10 +1,51 @@
 
 ================================================================
-======== txAdmin Starting - 7/10/2022, 8:32:10 AM               
+======== txAdmin Starting - 7/21/2022, 5:33:05 PM               
 ================================================================
-[08:32:33] [kimchhaychheng555] created admins file
-[08:33:12] [kimchhaychheng555] Changing global settings via setup stepper and started Deployer.
-[08:33:17] [kimchhaychheng555] Setting recipe.
-[08:34:41] [kimchhaychheng555] Running recipe.
-[09:52:54] [kimchhaychheng555] Configured server.cfg from deployer.
-[09:52:54] [kimchhaychheng555] Completed and committed server deploy.
+
+================================================================
+======== Log Rotated - 7/21/2022, 5:33:06 PM                    
+================================================================
+
+================================================================
+======== txAdmin Starting - 7/21/2022, 6:00:03 PM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 7/21/2022, 6:21:34 PM               
+================================================================
+[18:31:02] [kimchhaychheng555] logged in from 127.0.0.1 via password
+[18:31:12] [kimchhaychheng555] RESTART SERVER
+[18:34:56] [kimchhaychheng555] ensure "lj-inventory"
+[18:35:17] [kimchhaychheng555] stop qb-inventory
+[18:35:29] [kimchhaychheng555] ensure "lj-inventory"
+[18:49:14] [kimchhaychheng555] refresh
+[18:49:18] [kimchhaychheng555] start okokchat
+[18:49:27] [kimchhaychheng555] start okokChat
+[18:50:30] [kimchhaychheng555] restart okokchat
+[18:50:34] [kimchhaychheng555] refresh
+[18:50:37] [kimchhaychheng555] restart okokChat
+[18:51:42] [kimchhaychheng555] restart okokChat
+[18:52:15] [kimchhaychheng555] RESTART SERVER
+[18:54:45] [kimchhaychheng555] Editing server CFG File.
+[18:55:24] [kimchhaychheng555] RESTART SERVER
+[18:58:11] [kimchhaychheng555] refresh
+[18:58:13] [kimchhaychheng555] restart okokChat
+[18:59:17] [kimchhaychheng555] restart okokChat
+[18:59:50] [kimchhaychheng555] restart okokChat
+[19:01:38] [kimchhaychheng555] restart okokChat
+[19:02:44] [kimchhaychheng555] stop "chat"
+[19:03:57] [kimchhaychheng555] restart okokChat
+[19:04:49] [kimchhaychheng555] restart okokChat
+[19:05:08] [kimchhaychheng555] restart okokChat
+[19:05:50] [kimchhaychheng555] restart okokChat
+[19:06:03] [kimchhaychheng555] restart okokChat
+[19:10:47] [kimchhaychheng555] 'restart okokChat
+[19:10:52] [kimchhaychheng555] restart okokChat
+[19:11:41] [kimchhaychheng555] RESTART SERVER
+
+================================================================
+======== txAdmin Starting - 7/21/2022, 9:17:59 PM               
+================================================================
+[21:18:13] [kimchhaychheng555] logged in from 127.0.0.1 via password
+[21:19:51] [kimchhaychheng555] Editing server CFG File.

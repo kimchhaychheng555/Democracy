@@ -51,6 +51,8 @@ ensure [qb]
 ensure [standalone]
 ensure [voice]
 ensure [defaultmaps]
+ensure [custom]
+
 
 ## Permissions ##
 add_ace group.admin command allow # allow all commands
